@@ -72,7 +72,7 @@ const MainMenu = () => {
 
   return (
 		<div className="main-screen" ref={backgroundRef} style={{ backgroundColor: 'white', width: '100%', height: '100%' }}>
-      <h1 className="title" style={{ color: 'red', fontSize: '3em', marginBottom: '15vh' }}>3JS Race Car</h1>
+      <h1 className="title" style={{ color: 'red', fontSize: '3em', marginBottom: '15vh' }}>Circuit Rush</h1>
 			<div className="menu">
 				<div ref={textRef} className="start-info">
 					{!accelerationEnabled ? 'ENABLE GPU ACCELERATION IN YOUR BROWSER SETTINGS' : !mobileDevice ? 'PRESS ENTER TO START' : 'MOBILE DEVICES CURRENTLY NOT SUPPORTED'}
