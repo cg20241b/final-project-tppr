@@ -8,10 +8,10 @@
 | Revy Pramana              | 5025221252 |
 | Allen Keyo Handika        | 5025221298 |
 
-# Racing Car
+# Circuit Rush
 
 ## Overview
-Racing Car is a 3D racing game where players control a car to navigate through a circuit, avoiding obstacles and aiming for the best time. The game leverages Three.js for rendering 3D graphics and Cannon.js for physics simulation.
+Circuit Rush is a 3D racing game where players control a car to navigate through a circuit, avoiding obstacles and aiming for the best time. The game leverages Three.js for rendering 3D graphics and Cannon.js for physics simulation.
 
 ## Tech Stack
 - **React**: For building the user interface.
@@ -31,3 +31,15 @@ Racing Car is a 3D racing game where players control a car to navigate through a
 - **Lighting**: Adds light sources to the scene to illuminate objects.
 - **Animation**: Animates objects within the scene.
 - **Physics**: Simulates physical interactions between objects.
+
+## Screenshot Result
+- **Main Menu**
+    ![alt text](<img/Screenshot 2024-12-09 093258.png>)
+- **Turorial Page**
+![alt text](<img/Screenshot 2024-12-09 093307.png>)
+- **Game Start**
+![alt text](<img/Screenshot 2024-12-09 093320.png>)
+- **Game Paused**
+![alt text](<img/Screenshot 2024-12-09 093437.png>)
+- **Game Over**
+![alt text](<img/Screenshot 2024-12-09 093557.png>)
